@@ -1,4 +1,3 @@
-// lib/features/book_list/data/models/book_model.dart
 import 'package:books_app/features/book_list/domain/entities/book.dart';
 import 'package:equatable/equatable.dart';
 
