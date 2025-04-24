@@ -1,9 +1,7 @@
-# Flutter Book Listing App
+# Flutter Book App
 
 A mobile application for browsing and searching books from the Project Gutenberg library using the [Gutendex API](https://gutendex.com/). Built with Flutter and Clean Architecture.
 
-![App Preview](https://via.placeholder.com/300x600?text=Book+List+Screen) 
-*(Replace with actual screenshots)*
 
 ## Features
 
@@ -18,7 +16,7 @@ A mobile application for browsing and searching books from the Project Gutenberg
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/book-listing-app.git
+   git clone https://github.com/ziadabdo99/books_app
 Install dependencies
 
 bash
@@ -104,24 +102,7 @@ Type your search query
 
 Results update automatically
 
-Expand Summaries
 
-Tap "See More" to expand text
-
-Tap "See Less" to collapse
-
-Future Improvements
-Implement offline caching (Hive/SQLite)
-
-Add book detail screen
-
-Unit/Widget tests
-
-Dark mode support
-
-Search suggestions/history
-
-Sorting/filtering options
 
 License
 MIT License - See LICENSE for details
@@ -139,20 +120,6 @@ Search functionality ✅
 
 Responsive UI ✅
 
-For questions or issues, contact: your.email@example.com
 
 
-This README:
-1. Provides clear setup/usage instructions
-2. Demonstrates architectural decisions
-3. Highlights technical implementation details
-4. Shows task requirement compliance
-5. Includes potential improvements
-6. Maintains professional presentation
 
-Remember to:
-1. Add actual screenshots
-2. Update contact information
-3. Customize repository links
-4. Add your LICENSE file
-5. Include any additional implementation notes specific to your solution
